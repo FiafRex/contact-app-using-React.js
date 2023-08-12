@@ -1,0 +1,6 @@
+npx create-react-app contact-app //creates the contact-app directory
+cd contact-app
+npm start // starts the server
+npm i uuidv4 //installs UID library
+npm i util //installs util library
+npm install react-router-dom react-router
